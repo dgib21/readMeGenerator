@@ -1,53 +1,44 @@
 
-   # ReadMe Generator 
+# Readme Generator 
 
-    
-   ## Description:
+## Description:
 
-      This application allows you to create a Professional Readme based on user input from the command line.
+      This app builds a professional readme through user input. 
 
+# Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Contribution](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+## Installation:
 
-   # Table of Contents
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Credits](#credits)
-    - [License](#license)
-    - [Contribution](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+    Clone repo. Install node and requirer. 
 
-   ## Installation:
+## Usage:
 
-   To install this project simply clone the repo.  Install node.js, inquirer, and fs with npm. 
+    To quickly build a professional readme.
 
+## Credits:
 
-   ## Usage:
+    Please feel free to contribute often. 
 
-    To generate a professional readme. 
-
-
-   ## Credits:
-
-    The more the merrier.  Please don't hesistate to enhance this product.  
-
-
-   ## License:
+## License:
 
     For more information about licenses, please visit:
     [License](https://opensource.org/licenses/MIT)
 
-
-   ## Contributing:
+## Contributing:
     
     undefined
 
-    
-   ## Tests:
+## Tests:
 
     undefined
 
-    
-   ## Questions:
+    ## Questions:
 
     For questions or concerns please use the following: 
     - [Github Profile](https://github.com/dgib21)
