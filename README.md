@@ -38,7 +38,7 @@
 
     undefined
 
-    ## Questions:
+## Questions:
 
     For questions or concerns please use the following: 
     - [Github Profile](https://github.com/dgib21)
