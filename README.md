@@ -44,4 +44,7 @@
     - [Github Profile](https://github.com/dgib21)
     - [Email](dgib21@hotmail.com)
 
+## Terminal Screenshot
+![Alt text](/assets/images/terminalScreenshot.png "Terminal Screenshot")
+
   
